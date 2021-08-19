@@ -1,0 +1,53 @@
+h4 {
+    text-align: center
+}
+
+.table {
+    margin-top: 20px;
+    width: 100%;
+    text-align: left;
+    border-radius: 5px;
+
+
+}
+
+.table th,
+.table td {
+    border-top: 2px solid rgb(144, 144, 144);
+    background-color: #42A5F5;
+}
+
+.table th:last-child {
+    text-align: right;
+}
+.danger {
+    background-color: #FF1744;
+    border-color: #FF1744;
+    color: rgb(231, 231, 231);
+    text-align: center;
+    cursor: pointer;
+}
+
+input, label {
+    display: block;
+    margin: 5px;
+}
+
+input[type=button] {
+    background-color: #2196F3;
+    border-color: #2196F3;
+    text-transform: uppercase;
+    font-weight:bold;
+    cursor: pointer;
+
+    color: #FFF;
+    margin-top: 15px;
+    border-radius: 4px;
+    padding: 5px 23px;
+    box-shadow: hsla(2px, 4px, 8px, .6);
+}
+
+input[type=button]:hover{
+    background-color: #1565C0;
+    border-color: #1565C0;
+}

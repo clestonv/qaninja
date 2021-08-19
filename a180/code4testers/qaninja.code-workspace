@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"explorer.confirmDragAndDrop": false,
+		"workbench.iconTheme": "material-icon-theme",
+		"workbench.colorTheme": "Atom One Dark Theme - Underlined",
+		"window.zoomLevel": 1,
+	}
+}
